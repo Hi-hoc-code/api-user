@@ -11,7 +11,7 @@
 const Pool = require("pg").Pool;
 const pool = new Pool({
   connectionString:
-  "postgresql://Hi-hoc-code:1qQbdPvcDWK5@ep-lucky-voice-99485450.ap-southeast-1.aws.neon.tech/users?sslmode=require",
+  "postgresql://Hi-hoc-code:L3EhCNTmWO1t@ep-lucky-voice-99485450.ap-southeast-1.aws.neon.tech/users?sslmode=require",
   ssl: {
     require: true,
   },
